@@ -24,8 +24,7 @@
     "react-native": ">=0.57"
   },
   "dependencies": {
-    "react-native-keychain": "^4.0.0",
-    "@react-native-community/async-storage": "^1.6.2"
+    "react-native-keychain": "^4.0.0"
   },
   "scripts": {
     "test": ""
