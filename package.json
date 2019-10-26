@@ -7,6 +7,7 @@
   "main": "lib/index.js",
   "homepage": "https://github.com/dbw03135/react-native-keychainstorage#readme",
   "license": "MIT",
+  "private": false,
   "keywords": [
     "react-native",
     "react native",
