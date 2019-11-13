@@ -1,6 +1,6 @@
 {
   "name": "react-native-keychainstorage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easy Keychain Acess for React Native ( like AsyncStorage )",
   "author": "dbw03135",
   "contributors": [],
