@@ -1,4 +1,4 @@
-# react-native-keychainstorage
+# React Native Keychain Storage
 
 Easy Keychain Access for React Native ( like AsyncStorage )
 
