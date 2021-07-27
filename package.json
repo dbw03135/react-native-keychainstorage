@@ -1,10 +1,11 @@
 {
   "name": "react-native-keychainstorage",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "Easy Keychain Acess for React Native ( like AsyncStorage )",
   "author": "dbw03135",
   "contributors": [],
   "main": "lib/index.js",
+  "types": "index.d.ts",
   "homepage": "https://github.com/dbw03135/react-native-keychainstorage#readme",
   "license": "MIT",
   "private": false,
@@ -24,7 +25,8 @@
     "react-native": ">=0.57"
   },
   "dependencies": {
-    "react-native-keychain": "^4.0.0"
+    "@react-native-async-storage/async-storage": "^1.15.5",
+    "react-native-keychain": "^7.0.0"
   },
   "scripts": {
     "test": ""
